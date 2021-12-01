@@ -12,12 +12,15 @@ The first document below is a one page class handout. The front side is the brea
 ## Recommended Hardware
 The hardware in this project is super simple, though you will need to reference an on line guide on how breadboards work:
 * 1 – Arduino board  ([this $27 kit[(https://www.amazon.com/dp/B07RS12QW8) has it all)
-* 1 – Speaker (4-8 ohm, 3W max) OR Passive Buzzer- ex: https://www.amazon.com/dp/B078KXQG17
+* 1 – Speaker (4-8 ohm, 3W max) OR Passive Buzzer- ex: https://www.amazon.com/dp/B01NCOXB2Q
 * 1 - 1kΩ resistors (for MP3 serial lines) - ex: https://www.amazon.com/dp/B0185FGTSS
-* 1 - CdS Light Sensor photo resistor
-* 5 – Male/Male dupont connecting wires, 2 M/F
-* 1 - Breadboard - ex: https://www.amazon.com/dp/B01K47FYM2/
+* 1 - CdS Light Sensor photo resistor- https://www.amazon.com/dp/B01N7V536K
+* 5 – Male/Male dupont connecting wires, 2 M/F - https://www.amazon.com/dp/B01EV70C78
+* 1 - Breadboard - ex: https://www.amazon.com/dp/B07PCJP9DY
 
+  OR, [this $25 kit from Amazon](https://www.amazon.com/dp/B07RS12QW8) has everything you need, and then some.
+  
+  
 All LCBB code and related materials are copy left (open sourced) under the Creative Commons (CC)(BY)(SA)[1] License.
 
 [1] - https://en.wikipedia.org/wiki/Creative_Commons_license#Types_of_licenses
