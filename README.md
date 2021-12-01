@@ -1,6 +1,6 @@
 # arduino_music-w-light
 
-This class was written to be a super simple 1hr hardware + software build, where students get to make an eerie, light based, Theremin musical instrument. Here's a diagram of the completed "Light Theremin".
+This class was written to be a super simple 1hr hardware + software build, where students get to make an eerie, light based, [Theremin musical instrument](https://www.youtube.com/watch?v=w5qf9O6c20o). Here's a diagram of the completed "Light Theremin".
 <IMG SRC=misc/LCBB_light-thermin.png align=right>
 
 The first document below is a one page class handout. The front side is the breadboard build and sample code. The back side shows how to run the code and go from just sampling light data, to making music! The second document is a "parts info & resources" handout on where to get your own Arduino kit to make this and many other projects and useful resources:
